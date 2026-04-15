@@ -67,8 +67,8 @@
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+  <img  src="https://raw.githubusercontent.com/Abravo19/Abravo19/main/resources/img/github-contribution-grid-snake.svg"
+    alt="Abravo19" />
 </p>
 
 
@@ -78,10 +78,8 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iscpatricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="mailTo:isc.patricio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="mailTo:gabdomont19@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="gabriel" height="30" width="40" /></a>
+<a href="https://github.com/Abravo19" target="blank"> <img align="center" alt="https://github.com/Abravo19" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 
