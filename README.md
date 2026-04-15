@@ -51,26 +51,6 @@
 <br><br><br><br><br><br><br><br>
 
 ![Gabriel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abravo19&custom_title=Gabriel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abravo19&layout=compact&theme=algolia" alt="Abravo19" />
- </a>
-</p>
-
-
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Abravo19/Abravo19/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Abravo19" />
-</p>
-
 
 <br>
 
