@@ -1,5 +1,5 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 ### <h1>Hi there 👋 I am Gabriel Bravo</h1>
 ### <h1>Hola a todos 👋 me llamo Gabriel Bravo</h1>
@@ -10,7 +10,6 @@
 - Je suis developpeur junior fullstack.
 <br />
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **gabdomont19@gmail.com**
 - 📝 I studied at Lycée Frederic Chopin
